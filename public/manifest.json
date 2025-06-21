@@ -1,0 +1,17 @@
+{
+  "name": "Finla.ai Transcription UI",
+  "short_name": "Finla.ai",
+  "description": "Advanced Transcription UI with Live Streaming and Batch Processing.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#161A1D",
+  "theme_color": "#1E3A8A",
+  "icons": [
+    {
+      "src": "/icons/icon-512x512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
